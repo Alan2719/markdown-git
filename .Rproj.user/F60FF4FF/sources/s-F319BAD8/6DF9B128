@@ -3,7 +3,7 @@
     "path": "D:/Certificación Data Science/Proyecto/Semana 2/markdown-git/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1874279820",
     "contents": "",
     "dirty": false,
     "created": 1657580956983.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,124",
+        "cursorPosition": "9,96",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657581724,
+    "lastKnownWriteTime": 1657584801,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657581724683,
+    "last_content_update": 1657584801334,
     "read_only": false,
     "read_only_alternatives": []
 }
